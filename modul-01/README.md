@@ -1,16 +1,27 @@
-# Modul [01] - [Nama Topik Modul]
+# Modul [01] - [Program konversi Suhu]
 
-**Nama:** [Nama Mahasiswa]  
-**NIM:** [NIM Mahasiswa]  
-**Kelas:** [Kelas/Kelompok]  
+**Nama:** [Muhammad Syalwan Fachrezy]  
+**NIM:** [1306625096]  
+**Kelas:** [FIsika-C]  
 
 ---
 
 ## 1. Problem Statement
-> Jelaskan latar belakang masalah, parameter yang diketahui, serta tujuan dari praktikum atau pemodelan pada modul ini.
+> Membuat sebuah program untuk menentukan konversi suhu celcius,reamur,fahrenheit
 
 ## 2. Mathematical Equation
-> Tuliskan persamaan fisika/matematika, rumus numerik, atau penurunan rumus yang digunakan dalam modul ini menggunakan format LaTeX.
+> R = \frac{4}{5}
 
 ## 3. Algorithm
-> Tuliskan langkah-langkah logika penyelesaian masalah secara sistematis sebelum diimplementasikan ke dalam kode Python (`main.py`).
+> 1. Mulai
+> 2. Cetak/print judul "Program Konversi Suhu"
+> 3. Print "Nama : Muhammad Syalwan Fachrezy"
+> 4. Print "NIM : 1306625096"
+> 5. Input "Suhu Awal:....."
+> 6. Input "Selamh:...."
+> 7. Print " TABEL KONVERSI"
+> 8. Print "TABEL:...."
+> 9. Hitung Celsius ke Reamur : 4/5
+> 10. Hitung Celsius ke Fahrenheit :
+> 11. Print Hasil
+> 12. Selesai
